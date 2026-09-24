@@ -1,2 +1,2 @@
 print('System Configuration')
-print('Setting: Default')
+print('Setting: Option ALPHA')
